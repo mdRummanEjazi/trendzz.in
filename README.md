@@ -1,4 +1,4 @@
-#🛍️ TRENDZZ — E-Commerce UI (HTML & CSS Only)
+#TRENDZZ — E-Commerce UI (HTML & CSS Only)
 📖 Overview
 
 TRENDZZ is a simple and stylish eCommerce website UI made using only HTML and CSS — no JavaScript used.
@@ -41,7 +41,6 @@ trendzz.in/
 🖼️ Preview
 
 The design highlights a fresh, trendy, and minimalistic shopping experience with product categories and a smooth UI layout.
-(You can later add a preview image here like ![Preview](images/preview.png))
 
 🚀 How to Run Locally
 
