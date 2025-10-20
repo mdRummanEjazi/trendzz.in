@@ -1,10 +1,10 @@
-#TRENDZZ — E-Commerce UI (HTML & CSS Only)
+# 🛍️TRENDZZ — E-Commerce UI (HTML & CSS Only)
 📖 Overview
 
 TRENDZZ is a simple and stylish eCommerce website UI made using only HTML and CSS — no JavaScript used.
 It’s designed with a modern layout, product showcase sections, and smooth responsiveness for a real-world shopping feel.
 
-🔗 Take a View
+# 🔗 Take a View
 
 👉 Live Website: Click here to view TRENDZZ
 
@@ -22,7 +22,7 @@ It’s designed with a modern layout, product showcase sections, and smooth resp
 
 ⚙️ Built with semantic HTML and organized CSS
 
-🧰 Technologies Used
+# 🧰 Technologies Used
 
 HTML5 — for structure
 
@@ -42,7 +42,7 @@ trendzz.in/
 
 The design highlights a fresh, trendy, and minimalistic shopping experience with product categories and a smooth UI layout.
 
-🚀 How to Run Locally
+# 🚀 How to Run Locally
 
 Clone this repository:
 
@@ -63,8 +63,11 @@ Run the index.html file in your browser.
 
 ⚙️ Add backend in future (Node.js / Django / etc.)
 
-👨‍💻 Author
+# 👨‍💻 Author
+**Md Rumman Ejazi**  
+[GitHub Profile](https://github.com/mdRummanEjazi)
 
-Md Rumman Ejazi
+**Sameer Akhtar**
+[GitHub Profile](https://github.com/coder-sameeer)
 💬 Diploma in Computer Science and Engineering
 🏫 MANUU Polytechnic, Hyderabad
