@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  scroll-behavior: smooth;
+}
+#catalog-box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+.box {
+  width: 20vw;
+}
+.box img {
+  width: 100%;
+  transition-duration: 0.3s;
+}
+.box img:hover {
+  transform: scale(1.05);
+  transition-duration: 0.3s;
+  cursor: pointer;
+}
+.price {
+  display: flex;
+  gap: 20px;
+}
+#buy-btn {
+  background-color: black;
+  border: none;
+  height: 30px;
+  width: 90px;
+  border-radius: 10px;
+  transition-duration: 0.3s;
+}
+#buy-btn:hover {
+  transform: scale(1.05);
+  transition-duration: 0.3s;
+}
+#buy-btn a {
+  text-decoration: none;
+  color: white;
+}
