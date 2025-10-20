@@ -68,6 +68,6 @@ Run the index.html file in your browser.
 [GitHub Profile](https://github.com/mdRummanEjazi)
 
 **Sameer Akhtar**
-[GitHub Profile](https://github.com/coder-sameeer)
+[GitHub Profile](https://github.com/coder-sameeer) <br>
 💬 Diploma in Computer Science and Engineering
 🏫 MANUU Polytechnic, Hyderabad
