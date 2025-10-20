@@ -67,7 +67,7 @@ Run the index.html file in your browser.
 **Md Rumman Ejazi**  <br>
 [GitHub Profile](https://github.com/mdRummanEjazi)
 
-**Sameer Akhtar**
-[GitHub Profile](https://github.com/coder-sameeer) <br>
-💬 Diploma in Computer Science and Engineering
+**Sameer Akhtar** <br>
+[GitHub Profile](https://github.com/coder-sameeer) <br><br>
+💬 Diploma in Computer Science and Engineering<br>
 🏫 MANUU Polytechnic, Hyderabad
