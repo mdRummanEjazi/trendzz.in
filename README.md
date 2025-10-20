@@ -6,7 +6,7 @@ It’s designed with a modern layout, product showcase sections, and smooth resp
 
 # 🔗 Take a View
 
-👉 Live Website: Click here to view TRENDZZ
+👉 Live Website: https://mdrummanejazi.github.io/trendzz.in/
 
 🎯 Features
 
@@ -42,7 +42,7 @@ trendzz.in/
 
 The design highlights a fresh, trendy, and minimalistic shopping experience with product categories and a smooth UI layout.
 
-# 🚀 Live Rivew
+# 🚀 Live Review
 
 take a look👁️👁️: https://mdrummanejazi.github.io/trendzz.in/
 
