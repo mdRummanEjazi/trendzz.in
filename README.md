@@ -64,7 +64,7 @@ Run the index.html file in your browser.
 ⚙️ Add backend in future (Node.js / Django / etc.)
 
 # 👨‍💻 Author
-**Md Rumman Ejazi**  
+**Md Rumman Ejazi**  <br>
 [GitHub Profile](https://github.com/mdRummanEjazi)
 
 **Sameer Akhtar**
