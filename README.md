@@ -42,16 +42,10 @@ trendzz.in/
 
 The design highlights a fresh, trendy, and minimalistic shopping experience with product categories and a smooth UI layout.
 
-# 🚀 How to Run Locally
+# 🚀 Live Rivew
 
-Clone this repository:
+take a look👁️👁️: https://mdrummanejazi.github.io/trendzz.in/
 
-git clone https://github.com/mdrummanejazi/trendzz.in.git
-
-
-Open the folder in any code editor.
-
-Run the index.html file in your browser.
 
 💡 Future Plans
 
